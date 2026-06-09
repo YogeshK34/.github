@@ -33,7 +33,7 @@ To install the Besu binary, follow [these instructions](https://besu.hyperledger
 
 ## Besu Developers
 
-* [Contributing Guidelines]
+* [Contributing Guidelines](https://github.com/besu-eth/besu/blob/main/CONTRIBUTING.md)
 * [Coding Conventions](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22154259/Coding+Conventions)
 * [Command Line Interface (CLI) Style Guide](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22154260/Besu+CLI+Style+Guide)
 * [Besu User Documentation] for running and using Besu
@@ -69,4 +69,4 @@ To learn how to run the tests and enable opcode-level JSON tracing for debugging
 [Besu Issues]: https://github.com/hyperledger/besu/issues
 [Besu User Documentation]: https://besu.hyperledger.org
 [Besu channel on Discord]: https://discord.com/invite/hyperledger
-[Contributing Guidelines]: CONTRIBUTING.md
+[Contributing Guidelines]: https://github.com/besu-eth/besu/blob/main/CONTRIBUTING.md
